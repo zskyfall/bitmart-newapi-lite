@@ -1,7 +1,7 @@
 ## Usage
 
 ```javascript
-const { BitmartRestApi } = require('bmapi');
+const { BitmartRestApi } = require('bitmart-newapi-lite');
 
 (async () => {
   const client = new BitmartRestApi('my-api-name', 'my-api-key', 'my-api-secret');
