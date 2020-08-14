@@ -1,0 +1,27 @@
+{
+  "name": "bitmart-newapi-lite",
+  "version": "1.0.0",
+  "description": "New Bitmart API - lite version without error \"The request header \"X-BM-TIMESTAMP\" cannot be empty\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "bitmart",
+    "bitmartapi",
+    "bitmart-api",
+    "crypto",
+    "cryptoapi",
+    "crypto-api",
+    "bitmart",
+    "api",
+    "bitmart new api",
+    "bitmart cloud api",
+    "bitmart cloud",
+    "bitmart api",
+    "bitmart new"
+  ],
+  "author": "JasonZed",
+  "license": "ISC"
+}
